@@ -1,5 +1,5 @@
 # fit3155_advance_data_structure_and_algorithms
-Assignment done in the unit
+Assignment based on algorithms learnt in the unit
 ## binary_boyermoore.py ##
 BM implementation for binary inputs 
 ## editdist.py ##
